@@ -14,11 +14,13 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 1rem;
   border-radius: 1rem;
+  margin: 0.65rem;
 }
 
 .foto {
   border-radius: 0.7rem;
   background-color: hsl(218, 44%, 22%);
+  object-fit: contain;
 }
 
 h1 {
